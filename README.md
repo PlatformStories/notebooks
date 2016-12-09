@@ -1,2 +1,1 @@
-# notebooks
-GBDX Stories notebooks
+Jupyter notebooks for [GBDX stories](gbdxstories.digitalglobe.com).
